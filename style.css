@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(https://radioaj.com.np/images/radio.jpg);
+	background-image: url(background.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
