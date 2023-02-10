@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: orange;
+	color: #f25a34;
 }
 #header .hamburger {
 	height: 60px;
@@ -248,7 +248,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: orange;
+	background-color: #f25a34;
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
